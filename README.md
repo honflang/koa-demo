@@ -23,9 +23,8 @@ npm start
 ```
 
 ### Example Endpoints
-- `GET /` — Hello World
-- `GET /about` — App info
-- `GET /users/:id` — User info (numeric id only)
+- `GET /api` — Hello World
+- `GET /api/about` — App info
 - `GET /api/data` — Sample data
 - `POST /api/data` — Create data (JSON body)
 - `PUT /api/data/:id` — Update data (numeric id, JSON body)
